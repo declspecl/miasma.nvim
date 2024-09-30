@@ -6,11 +6,11 @@
 ! by adding: #include "path/to/miasma.xresources"
 
 *.foreground:   #c2c2b0
-*.background:   #222222
+*.background:   #181818
 *.cursorColor:  #5f875f
 ! black
-*.color0:       #222222
-*.color8:       #666666
+*.color0:       #181818
+*.color8:       #606060
 ! red
 *.color1:       #685742
 *.color9:       #685742

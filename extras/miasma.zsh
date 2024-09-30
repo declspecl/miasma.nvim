@@ -5,8 +5,8 @@
 
 if [ "$TERM" = "linux" ]
 then
-    echo -en "\e]P0222222" #black
-    echo -en "\e]P8666666" #darkgrey
+    echo -en "\e]P0181818" #black
+    echo -en "\e]P8606060" #darkgrey
     echo -en "\e]P1685742" #darkred
     echo -en "\e]P9685742" #red
     echo -en "\e]P25f875f" #darkgreen
